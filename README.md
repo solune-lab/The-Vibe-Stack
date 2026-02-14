@@ -89,3 +89,18 @@ This is the soul of the entire development process. It elevates the AI Agent fro
 * **Market-Driven Recommendations**: Analyzes your technical stack and time commitment to recommend high-demand tools that are actually viable and ready to launch.
 * **Scientific Pricing Strategy**: Incorporates pricing psychology to maximize conversions (e.g., **Integer pricing** for professional tools to build trust, or **.99 endings** for entertainment-oriented tools).
 * **No More "Self-Amusement"**: Ensures every line of code you write is directed toward a verified market need, rather than just building for the sake of building.
+
+---
+
+## 🌟 Support & Connect
+
+If this workflow saved your tokens (and your sanity), please give this repository a **Star**! It tells me that "frugal development" is a path worth pursuing.
+
+### 📢 Stay Updated
+I share more about **Vibe Coding**, AI automation, and my journey to "zero-friction" development here:
+
+* **Twitter / X**: [@soluneai](https://x.com/soluneai)
+* **Threads**: [@soluneai_com](https://www.threads.net/@soluneai_com)
+
+---
+*Built by a frugal developer, for frugal developers. Stay efficient.*
