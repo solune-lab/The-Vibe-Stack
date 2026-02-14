@@ -53,7 +53,7 @@ This is the soul of the entire process. It elevates the AI Agent from a "chatbot
 ---
 
 ## 🧩 B. Nerve: Glue Code Puzzles (Quick Start)
-[Get the 20+ Verified Templates](https://buy.stripe.com/bJebJ31MZftmaZTfsg)
+[Get the 20+ Verified Templates](https://buy.stripe.com/bJebJ31MZftmaZTfsg63K00)
 
 To make your AI Agent "remember" these verified logic puzzles, it's simple:
 
