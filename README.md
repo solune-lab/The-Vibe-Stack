@@ -31,7 +31,7 @@ It’s about the **Logic**, not just the tool.
 This is the complete path I built to save my own development process. Every phase is designed to make the journey stable and frictionless.
 
 * [✅] **Phase 1: Brain (Vibe Coding Rules)** – Specialized Instruction Specifications that elevate AI Agents to Senior Engineers. (Released!)
-* [✅] **Phase 2: Nerve (🧩 20+ Verified Glue Code Puzzles)** – Pre-verified modular templates to avoid coding from scratch. [Get Puzzles]((https://buy.stripe.com/bJebJ31MZftmaZTfsg63K00)) (Released!)
+* [✅] **Phase 2: Nerve (🧩 20+ Verified Glue Code Puzzles)** – Pre-verified modular templates to avoid coding from scratch. [Get Puzzles](https://buy.stripe.com/bJebJ31MZftmaZTfsg63K00) (Released!)
 * [✅] **Phase 3: Mouth (Vibe Coding Translator)** – The communication bridge between humans and AI. [Try Tool Now](https://soluneai.com/vibe-coding-translator/) (Released!)
 * [⌛] **Phase 4: Body (PRD Master)** – Requirement & Architecture builder. (80% Complete)
 * [⌛] **Phase 5: Eyes (Auto Money Flow)** – All-in-one monetization guide. (80% Complete)
