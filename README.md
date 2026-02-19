@@ -13,7 +13,7 @@
 
 ### 🚀 Quick Start
 1. Copy the content of `vibe-coding-rules.md`.
-2. **For Claude Code**: Place it in your project root.
+2. **For Claude Code**: Place it in `~/.claude/CLAUDE.md` (global, works across all projects) or your project root `CLAUDE.md` (project-specific only).
 3. **For Cursor/Windsurf**: Add it to your `.cursorrules` or Project Settings.
 4. Watch your agent follow strict verification gates before every delivery.
 
@@ -60,7 +60,7 @@ This is the soul of the entire process. It elevates the AI Agent from a "chatbot
 * **No Screenshot, No Delivery**: Every UI modification requires a mandatory **Playwright** End-to-End test with a formal Verification Report and visual proof.
 
 ### 🧩 Glue Code Automation & Retrieval
-* **Local Library Priority**: Before writing new code, the AI must scan `.specify/memory/glue-library/` to match existing "puzzle pieces". Reusing verified modules is mandatory to ensure stability and save tokens.
+* **Local Library Priority**: Before writing new code, the AI must scan `.specify/memory/glue-library/` (Cursor/Windsurf: project root) or `~/.claude/.specify/memory/glue-library/` (Claude Code: global) to match existing "puzzle pieces". Reusing verified modules is mandatory to ensure stability and save tokens.
 * **Smart Storage Rules**: After development, the AI automatically evaluates if the code has cross-project value. If it passes the "3-project reuse" criteria, it is extracted into a generic template for future use.
 
 ### ⚡ Infrastructure & Deployment Authority
@@ -82,8 +82,10 @@ This is the soul of the entire process. It elevates the AI Agent from a "chatbot
 > **Buy now ($49) to lock in this price.** As we add more content, the price will increase significantly. All future updates are **FREE** for existing buyers via your original download link.
 
 1. **Download**: You will get a folder containing the `.specify` structure.
-2. **Installation**: Drop the `.specify` folder directly into your **Project Root Directory**.
-3. **Usage**: That's it! Whether you use Claude Code, Cursor, or any other agent, they will now have access to a "pre-verified logic library" to build your app faster and cheaper.
+2. **Installation**:
+   - **Cursor / Windsurf / Others**: Drop the `.specify` folder into your **Project Root Directory**.
+   - **Claude Code (Recommended)**: Drop the `.specify` folder into `~/.claude/` for cross-project sharing. The path becomes `~/.claude/.specify/memory/glue-library/`.
+3. **Usage**: The AI searches templates via `index.json` (keyword matching) — it does not scan the folder directly. Claude Code can auto-update `index.json` via hooks; other tools require manual updates when adding new templates.
 
 ---
 
